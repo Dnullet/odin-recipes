@@ -1,7 +1,7 @@
-h1 {
+.title {
     text-align: center;
     font-size: xx-large;
-    color:red;
+    color: red;
 }
 * {
     background-color: black;
